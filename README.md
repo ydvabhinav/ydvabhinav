@@ -11,15 +11,16 @@
 ---
 <h2 align="center">🌐 Connect with Me 🌐</h2>
 <div align="center">
-    <a href="https://www.instagram.com/yourusername" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-    </a>
-    <a href="https://twitter.com/yourusername" target="_blank">
-        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-    </a>
-    <a href="mailto:abhinav.ydv@icloud.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-    </a>
+  <a href="utkyru" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
 </div>
 <br/>
 <hr/>
